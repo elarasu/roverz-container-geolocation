@@ -29,6 +29,9 @@
     "collectCoverage": true,
     "verbose": true
   },
+  "peerDependencies": {
+    "react-native": ">=0.28.0"
+  },
   "dependencies": {
     "react-native-background-geolocation": "2.8.1"
   },
