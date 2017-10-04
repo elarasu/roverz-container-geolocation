@@ -16,7 +16,7 @@ import Button from 'apsl-react-native-button'
 import Config from './config';
 import commonStyles from './styles';
 
-var dismissKeyboard = require('dismissKeyboard');
+var dismissKeyboard = require('react-native-dismiss-keyboard');
 
 class GeofenceView extends React.Component {
   propTypes: {
