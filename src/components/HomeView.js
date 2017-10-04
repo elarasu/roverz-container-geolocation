@@ -9,7 +9,7 @@ import {
   AppState
  } from 'react-native';
 
-import EventEmitter from 'EventEmitter';
+import EventEmitter from 'wolfy87-eventemitter';
 
 import Icon from 'react-native-vector-icons/Ionicons';
 import MapView from 'react-native-maps';

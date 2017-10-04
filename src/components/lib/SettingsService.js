@@ -6,7 +6,7 @@ import {
   Alert
 } from 'react-native';
 
-import EventEmitter from 'EventEmitter';
+import EventEmitter from 'wolfy87-eventemitter';
 import Toast from 'react-native-root-toast';
 
 const STORAGE_KEY = "@TSLocationManager:";

@@ -6,7 +6,7 @@ import {
   AsyncStorage
 } from 'react-native';
 
-import EventEmitter from 'EventEmitter';
+import EventEmitter from 'wolfy87-eventemitter';
 
 import DeviceInfo from 'react-native-device-info';
 
